@@ -1,3 +1,5 @@
+Obsolete, [use naddison's branch](https://github.com/naddison36/node-verror)
+
 # verror: richer JavaScript errors
 
 This module provides three classes:
