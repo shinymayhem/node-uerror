@@ -1,9 +1,10 @@
 # verror: richer JavaScript errors
 
-This module provides two classes:
+This module provides three classes:
 
-* VError, for combining errors while preserving each one's error message, and
-* WError, for wrapping errors.
+* VError, for combining errors while preserving each one's error message
+* UError, like VError, but preserves original error's name (not currently covered by tests)
+* WError, for wrapping errors
 
 Both support printf-style error messages using
 [extsprintf](https://github.com/davepacheco/node-extsprintf).

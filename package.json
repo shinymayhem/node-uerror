@@ -1,11 +1,11 @@
 {
-	"name": "verror",
-	"version": "1.6.0",
+	"name": "uerror",
+	"version": "1.7.0",
 	"description": "richer JavaScript errors",
 	"main": "./lib/verror.js",
 	"repository": {
 		"type": "git",
-		"url": "git://github.com/davepacheco/node-verror.git"
+		"url": "git://github.com/shinymayhem/node-uerror.git"
 	},
 	"dependencies": {
 		"extsprintf": "1.2.0"
